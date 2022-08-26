@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bxD2xGJzG7mD36Hirm1ENacOYY57D1hkZo5FPEEa7xE=",
+  "Source": "HelloAspNetCore",
+  "BasePath": "_content/HelloAspNetCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
